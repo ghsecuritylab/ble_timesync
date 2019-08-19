@@ -1,7 +1,7 @@
 **Version:** 0.1  
 **Date:** 28.05.2019  
-**Authors:** Stanley Nwabuona<sup>1</sup>, Konrad Diwold<sup>2</sup>, Markus Schuss<sup>3</sup>  
-**Email:** stanley.nwabuona@pro2future.at<sup>1</sup>, konrad.diwold@pro2future.at<sup>2</sup>, markus.schuss@tugraz.at<sup>3</sup>
+**Authors:** Stanley Nwabuona
+**Email:** nwabuonastanley@yahoo.com
 
 ## Preamble 
 
