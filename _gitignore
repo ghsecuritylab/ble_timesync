@@ -1,0 +1,3 @@
+# intended to ignore the output files from seger IDE
+**/ses/Output/
+**/ses/Output/
