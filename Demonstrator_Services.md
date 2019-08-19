@@ -1,6 +1,6 @@
 **Version:** 0.1  
 **Date:** 28.05.2019  
-**Authors:** Stanley Nwabuona
+**Authors:** Stanley Nwabuona  
 **Email:** nwabuonastanley@yahoo.com
 
 ## Preamble 
